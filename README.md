@@ -4,7 +4,7 @@
 
 In this project, the goal is to estimate the price of an AirBnB house using the neighborhood of the house, room-type that house is offering, review rates and availability. In order to do so, the relationship between each parameter and price was visually analyzed. Additionally, there exists a dataset that contains information about the museums in New York and another dataset that has the record of the complaints done to the NYPD in recent years. My intuition is that houses closer (latitude and longitude wise) to museums are popular and therefore they might be more expensive. Also, crime rates are used since people prefer crimeless neighborhoods.
 
-##Outline
+## Outline
 
 1.   Firstly, we'll explore the datasets mentioned above and make some necessary modifications on them.
 2.   Then, we are going to reveal the relationships between price and several columns. For this purpose, we'll visualize the data and do some hypothesis testing.
